@@ -1,0 +1,19 @@
+# Phase 2: Secure Boot
+
+## 1. Problem
+...
+
+## 2. Architecture
+...
+
+## 3. Implementation
+...
+
+## 4. Experiment
+...
+
+## 5. Real-World Automotive Scenario
+...
+
+## 6. Regulatory Mapping
+...

@@ -1,0 +1,7 @@
+title: Boot2Trust – Embedded Linux Security Lab
+description: A hands-on, system-level project demonstrating end-to-end trust in an automotive ECU.
+theme: jekyll-theme-minimal
+github_username: kr-emsys-lab
+repository: kr-emsys-lab/boot2trust
+url: "https://kr-emsys-lab.github.io"
+baseurl: "/boot2trust"
